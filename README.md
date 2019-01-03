@@ -1,4 +1,4 @@
-[![alt text](https://zenodo.org/badge/DOI/10.5281/zenodo.2530108.svg)](https://zenodo.org/record/2530108#.XCzP-S2ZOqQ)
+[![DOI](https://zenodo.org/badge/163892054.svg)](https://zenodo.org/badge/latestdoi/163892054)
 
 
 # ANOVA (Analysis of Variance) on the result of a TOXCAT experiment
